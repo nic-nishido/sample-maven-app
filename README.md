@@ -1,11 +1,11 @@
 # simple-java-maven-app
 
 OpenShiftでのパイプライン構築の検証用のmavenのアプリケーションです。  
-以下のコードを参考にさせて頂きました。
+以下のコードを参考にさせて頂きました。  
 https://github.com/jenkins-docs/simple-java-maven-app/commit/793c42e8fe00936cec3de83ca675d4821c169594
 
 
------- Original Site README.md----------
+------ Original Site README.md----------  
 This repository is for the
 [Build a Java app with Maven](https://jenkins.io/doc/tutorials/build-a-java-app-with-maven/)
 tutorial in the [Jenkins User Documentation](https://jenkins.io/doc/).
@@ -20,6 +20,4 @@ you'll be creating yourself during the tutorial and the `scripts` subdirectory
 contains a shell script with commands that are executed when Jenkins processes
 the "Deliver" stage of your Pipeline.
 
-以下のコードを参考にさせて頂きました。
-https://github.com/jenkins-docs/simple-java-maven-app/commit/793c42e8fe00936cec3de83ca675d4821c169594
 
