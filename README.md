@@ -1,6 +1,6 @@
 # simple-java-maven-app
 
-OpenShiftでのパイプライン構築の検証用のmavenのアプリケーションです。
+OpenShiftでのパイプライン構築の検証用のmavenのアプリケーションです。 \n
 以下のコードを参考にさせて頂きました。
 https://github.com/jenkins-docs/simple-java-maven-app/commit/793c42e8fe00936cec3de83ca675d4821c169594
 
